@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" filepath="$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../createMyModule/.idea/createMyModule.iml" filepath="$PROJECT_DIR$/../createMyModule/.idea/createMyModule.iml" />
     </modules>
   </component>
 </project>
